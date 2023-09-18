@@ -6,3 +6,8 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+    1. Read readings.md... learn about ui
+    2.look at questions/answer questions
+    3. look at assignments/do assignments
+    4. take look at moody kittens
