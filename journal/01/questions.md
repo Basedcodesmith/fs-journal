@@ -5,13 +5,11 @@
 02. In the terminal, what is the command `mkdir` used for?
     > | make a directory |
 
-    miles
-
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | pseudo classes are special properties given to an element. I would guess we would use them mainly for css; t+o show an alt tag while hovering over an image, for example. |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | Specificity is used to define a specific sub part of an element. Instead of selecting the main element itself it selects something that comes after. Something more specific like the child of a parent element. Another example of specificity might be class selectors within the brackets of an element. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | ANSWER HERE |
