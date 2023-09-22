@@ -37,4 +37,4 @@
     > | displays code inline horizontally instead of vertically |
 
 11. What `CSS` properties affect the size of a box model?
-    > |Width and Height |
+    > |Width and Height, padding, margins, etc |
