@@ -61,3 +61,9 @@
         position:absolute
         left: 0;
      }
+
+     @media(max-width: 990px){ put at bottom so this isnt overridden
+        .heroImage{
+            background-image: url( 'url')
+        }
+     }
